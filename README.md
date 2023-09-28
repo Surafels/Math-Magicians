@@ -134,7 +134,7 @@ npx eslint .
  
 ## 🤝 Contributing <a name="contributing"></a>
 
-You are welcome, and click <a href="https://github.com/Surafels/Math-Magicians/issues">here</a> for any issues🙏
+You are welcome, and click <a href="">here</a> for any issues🙏
 
 ## ⭐️ Show your support <a name="support"></a>
 
