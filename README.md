@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h2>Leaderboard</h2>
+  <h2>Math Magicians</h2>
   <br/>
 </div>
 
@@ -28,9 +28,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Math magicians<a name="Leaderboard"></a>
+# 📖 Math magicians<a name="Math magicians"></a>
 
-**Math magicians** 
+**Math magicians** It is an app that calculate numbers
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,7 +46,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Users can submit their scores ]**
+- **[Users can calculate numbers ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
