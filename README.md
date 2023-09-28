@@ -30,7 +30,7 @@
 
 # 📖 Math magicians<a name="Math magicians"></a>
 
-**Math magicians** 
+**Math magicians** It is an app that calculate numbers
 
 ## 🛠 Built With <a name="built-with"></a>
 
