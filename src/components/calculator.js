@@ -1,6 +1,8 @@
 import '../App.css';
+import calculate from './logic/calculate.js';
 
-const Calculator = () => (
+const Calculator = (obj, buttonName) => (
+
   <section>
     <div className="Container">
       <input type="text" value="0" className="output grid-element" />
