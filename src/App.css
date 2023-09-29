@@ -26,6 +26,10 @@ button:nth-child(4n+1) {
   grid-column: span 4;
   text-align: right;
 }
+.operator{
+  background-color: rgb(245, 145, 62);
+
+}
 
 .zero-button {
   grid-column: span 2;
