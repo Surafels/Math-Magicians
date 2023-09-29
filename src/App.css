@@ -19,6 +19,7 @@ button:nth-child(4n+1) {
 
 .grid-element {
   min-height: 80px;
+  font-size: 24px;
 }
 
 .output {
