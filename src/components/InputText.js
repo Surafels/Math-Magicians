@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function InputButton(props) {
+function InputText(props) {
   const { value, className, onClick } = props;
 
   return (
@@ -14,13 +14,13 @@ function InputButton(props) {
   );
 }
 
-InputButton.propTypes = {
+InputText.propTypes = {
   value: PropTypes.string.isRequired,
   className: PropTypes.string,
   onClick: PropTypes.func.isRequired,
 };
-InputButton.defaultProps = {
+InputText.defaultProps = {
   className: null,
 };
 
-export default InputButton;
+export default InputText;
