@@ -19,12 +19,17 @@ button:nth-child(4n+1) {
 
 .grid-element {
   min-height: 80px;
+  font-size: 24px;
 }
 
 .output {
   background-color: rgb(133, 134, 148);
   grid-column: span 4;
   text-align: right;
+}
+
+.operator {
+  background-color: rgb(245, 145, 62);
 }
 
 .zero-button {
