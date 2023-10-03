@@ -18,6 +18,7 @@ const Calculator = () => {
 
   return (
     <section>
+      <p>Lets do some math</p>
       <div className="Container">
         <InputText type="text" value={value.next || value.total || '0'} className="output grid-element" />
         <InputButton className="grid-element" type="button" value="AC" onClick={() => handleButtonClick('AC')} />

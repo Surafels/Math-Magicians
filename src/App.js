@@ -5,9 +5,9 @@ import Home from './components/Home';
 
 function App() {
   return (
-    <>
+    <div>
       <nav>
-        <p>Math Magicians</p>
+        <p className="nav-head">Math Magicians</p>
         <ul>
           <li>
             <Link to="/Home">Home</Link>
@@ -26,7 +26,7 @@ function App() {
         <Route path="/Calculator" element={<Calculator />} />
         <Route path="/Quotes" element={<Quotes />} />
       </Routes>
-    </>
+    </div>
   );
 }
 
