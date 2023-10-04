@@ -1,0 +1,27 @@
+function Home() {
+  return (
+    <div className="home-div">
+      <h1>Welcome to my page</h1>
+      <p>
+        My interactive and user-friendly calculator allows you
+        to perform basic arithmetic operations with ease.
+        From addition and subtraction to multiplication and division,
+        My calculator provides accurate results,
+        helping you with your calculations in no time.
+      </p>
+      <p>
+        Be inspired by our curated collection of success quotes.
+        Delve into the wisdom of accomplished individuals from various fields.
+        These quotes provide motivation and guidance on your journey to success,
+        empowering you to overcome challenges and reach your goals.
+      </p>
+      <p>
+        Join  on Math Magician, where calculation and inspiration intersect.
+        Discover the joy of numbers while embracing the wisdom of success.
+        Start exploring now and unlock your mathematical prowess and inner potential.
+      </p>
+
+    </div>
+  );
+}
+export default Home;
