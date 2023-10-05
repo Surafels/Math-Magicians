@@ -44,9 +44,13 @@
     <li><a href="https://www.javascript.com/">Javascript</a></li>
   </ul>
 </details>
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 features
 - [Live Demo link](https://math-magician-x4h9.onrender.com)
+
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
 - **[Users can calculate numbers ]**
