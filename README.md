@@ -15,6 +15,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [Live Demo](#live-demo)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -43,7 +44,9 @@
     <li><a href="https://www.javascript.com/">Javascript</a></li>
   </ul>
 </details>
-
+## 🚀 Live Demo <a name="live-demo"></a>
+features
+- [Live Demo link](https://math-magician-x4h9.onrender.com)
 ### Key Features <a name="key-features"></a>
 
 - **[Users can calculate numbers ]**
