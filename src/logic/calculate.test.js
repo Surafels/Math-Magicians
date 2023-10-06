@@ -1,4 +1,4 @@
-import calculate from '../logic/calculate';
+import calculate from './calculate';
 import '@testing-library/jest-dom';
 
 describe('calculate', () => {

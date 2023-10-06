@@ -21,7 +21,7 @@
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-  - [👥 Author ](#-author-)
+  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -115,13 +115,17 @@ npx stylelint "**/*.{css,scss}"
 npx eslint .
 ```
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Surafel Samson**
 
 - GitHub: [@Surafels](https://github.com/Surafels)
 - Twitter: [@SurafelSamson2](https://twitter.com/SurafelSamson2)
-
+  
+  👤 **Filbert Kimasa**
+ - GitHub: @githubhandle
+- Twitter: @twitterhandle
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
