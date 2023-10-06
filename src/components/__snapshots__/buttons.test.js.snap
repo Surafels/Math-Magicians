@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render buttons correctly 1`] = `
+<input
+  className={null}
+  onClick={[Function]}
+  type="button"
+  value="Test"
+/>
+`;
