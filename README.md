@@ -1,4 +1,6 @@
-![Screenshot](https://github.com/Surafels/Math-Magicians/blob/dev/Screenshot%20(2).png)
+![Math Magicians Screenshot](https://github.com/Surafels/Math-Magicians/raw/dev/Screenshot%20(2).png
+)
+
 
 # mic-Math Magicians
 
