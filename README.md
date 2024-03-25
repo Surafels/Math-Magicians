@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Surafels/Math-Magicians/raw/dev/Screenshot%20(2).png" alt="Math Magicians Screenshot" width="300px" style= 'display:none;'>
+<!-- <img src="https://github.com/Surafels/Math-Magicians/raw/dev/Screenshot%20(2).png" alt="Math Magicians Screenshot"> -->
 
 # mic-Math Magicians
 
